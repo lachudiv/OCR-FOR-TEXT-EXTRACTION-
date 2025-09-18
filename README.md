@@ -37,7 +37,7 @@ OpenCV
 
 Clone the repository
 
-git clone https://github.com/NavaneeshK-303/OCR-For-Text-Extraction.git
+git clone https:(https://github.com/lachudiv/OCR-FOR-TEXT-EXTRACTION-)
 cd OCR-For-Text-Extraction
 
 
